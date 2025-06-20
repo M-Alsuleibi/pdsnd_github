@@ -16,6 +16,10 @@ The dataset is provided by [Motivate](https://www.motivateco.com/), a bike share
 - Perform exploratory data analysis (EDA)  
 - Compute key statistics such as trip duration, user demographics, and peak usage times  
 - Build an interactive terminal-based tool  
+## Requirements
+- Python 3.x  
+- Pandas  
+- NumPy  
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
