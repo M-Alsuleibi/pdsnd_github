@@ -11,6 +11,11 @@ The dataset is provided by [Motivate](https://www.motivateco.com/), a bike share
 - Chicago  
 - New York City  
 - Washington, DC  
+## Features
+- Load and clean bikeshare data  
+- Perform exploratory data analysis (EDA)  
+- Compute key statistics such as trip duration, user demographics, and peak usage times  
+- Build an interactive terminal-based tool  
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
